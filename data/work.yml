@@ -1,60 +1,50 @@
 enable: true
-title: Some of our latest projects.
-subtitle: Don’t just take our word for it. Check out some of our latest work.
+title: Projects and Work in Progress.
+subtitle: Here is some of our current work.
 
 portfolio:
-  - category: Branding
-    url: "#"
+  - category: Digital_Strategy
+    url: "mailto:jrod122@lsu.edu"
     image: "/img/portfolio/work1.jpg"
-    name: Tesla Motors
+    name: Competing in Platforms
     description: >
       Labore et dolore magna aliqua. Ut enim ad
-  - category: Websites
-    url: "#"
+    owner: >
+      Owner: Joaquin
+  - category: Customer_Service
+    url: "mailto:marcin.bartosiak@unipv.it"
     image: "/img/portfolio/work1.jpg"
-    name: Tesla Motors
+    name: Heuristics in Online Reviews
     description: >
-      Labore et dolore magna aliqua. Ut enim ad
-  - category: Graphics
-    url: "#"
+      The Role of Heuristics in Online Review Enabled Decision-Making Processes
+    owner: >
+      Owner: Marcin
+  - category: Customer_Service
+    url: "mailto:marcin.bartosiak@unipv.it"
+    image: "/img/portfolio/work1.jpg"
+    name: Presentation Format of Online Reviews
+    description: >
+      The effect of presentation format on the persuasiveness of online consumer reviews
+    owner: >
+      Owner: Marcin
+  - category: Emergency_Management
+    url: "mailto:dbonar1@lsu.edu"
     image: "/img/portfolio/work2.jpg"
     name: Tesla Motors
     description: >
       Labore et dolore magna aliqua. Ut enim ad
-  - category: Design
-    url: "#"
+    owner: >
+      Owner: Dario
+  - category: Other_Stuff
+    url: "mailto:"
     image: "/img/portfolio/work3.jpg"
-    name: Tesla Motors
+    name: placeholder
     description: >
       Labore et dolore magna aliqua. Ut enim ad
-  - category: Video
-    url: "#"
-    image: "/img/portfolio/work4.jpg"
-    name: Tesla Motors
-    description: >
-      Labore et dolore magna aliqua. Ut enim ad
-clients:
-  - image: "/img/clients/clients-logo1.png"
-    url: "#"
-  - image: "/img/clients/clients-logo2.png"
-    url: "#"
-  - image: "/img/clients/clients-logo3.png"
-    url: "#"
-  - image: "/img/clients/clients-logo4.png"
-    url: "#"
-  - image: "/img/clients/clients-logo5.png"
-    url: "#"
-  - image: "/img/clients/clients-logo4.png"
-    url: "#"
-  - image: "/img/clients/clients-logo3.png"
-    url: "#"
-  - image: "/img/clients/clients-logo2.png"
-    url: "#"
-  - image: "/img/clients/clients-logo1.png"
-    url: "#"
-  - image: "/img/clients/clients-logo2.png"
-    url: "#"
-  - image: "/img/clients/clients-logo3.png"
-    url: "#"
-  - image: "/img/clients/clients-logo4.png"
-    url: "#"
+    owner: >
+      Owner: placeholder
+# clients:
+#   - image: "/img/friends/hoxell.jpg"
+#     url: "http://www.hoxell.com/"
+#   - image: "/img/friends/artlab.jpg"
+#     url: "http://artelab.dicom.uninsubria.it/"
