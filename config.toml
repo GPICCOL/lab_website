@@ -1,4 +1,4 @@
-baseURL = "http://gpiccol.github.io"
+baseURL = "https://dds.cct.lsu.edu/ddslab/"
 languageCode = "en-us"
 title = "DDS Lab Website"
 theme = "airspace"

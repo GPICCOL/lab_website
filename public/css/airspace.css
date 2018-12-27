@@ -218,6 +218,10 @@ font header .navbar-default .navbar-nav li a:hover {
   font-size: 14px;
   line-height: 1.8;
 }
+#service .service-item img {
+  max-width: 100%;
+  height: auto;
+}
 /*--
 	call-to-action Start
 --*/

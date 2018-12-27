@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>DDS Lab Website</title>
+    <link>http://gpiccol.github.io/</link>
+    <description>Recent content on DDS Lab Website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://gpiccol.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>People</title>
+      <link>http://gpiccol.github.io/people/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://gpiccol.github.io/people/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Work</title>
+      <link>http://gpiccol.github.io/work/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://gpiccol.github.io/work/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
