@@ -1,4 +1,4 @@
-baseURL = "https://dds.cct.lsu.edu/ddslab/"
+baseURL = "https://dds.cct.lsu.edu/app1102/ddslab/"
 languageCode = "en-us"
 title = "DDS Lab Website"
 theme = "airspace"

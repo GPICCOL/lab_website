@@ -1,6 +1,6 @@
 ---
 title: "Conferences"
-draft: true
+draft: false
 ---
 
 ## Upcoming Conferences

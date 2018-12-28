@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>DDS Lab Website</title>
-    <link>https://dds.cct.lsu.edu/app1102/ddslab/</link>
-    <description>Recent content on DDS Lab Website</description>
+    <title>Blogs on DDS Lab Website</title>
+    <link>https://dds.cct.lsu.edu/app1102/ddslab/blog/</link>
+    <description>Recent content in Blogs on DDS Lab Website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://dds.cct.lsu.edu/app1102/ddslab/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://dds.cct.lsu.edu/app1102/ddslab/blog/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -24,15 +24,6 @@ Submission Deadline: November 27, 2018
     </item>
     
     <item>
-      <title>People</title>
-      <link>https://dds.cct.lsu.edu/app1102/ddslab/people/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://dds.cct.lsu.edu/app1102/ddslab/people/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Publications</title>
       <link>https://dds.cct.lsu.edu/app1102/ddslab/blog/publications/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -42,15 +33,6 @@ Submission Deadline: November 27, 2018
  Lui, I., Piccoli, G., Bartosiak, M., Marchesani, D. IT-Enabled Personalization Outcomes in Hospitality.
  Bartosiak, M., Piccoli, G., Junglas, I. The effect of presentation format on the persuasiveness of online consumer reviews.
  Bartosiak, M., Junglas, I., Piccoli, G. The Role of Heuristics in Online Review Enabled Decision-Making Processes.</description>
-    </item>
-    
-    <item>
-      <title>Work</title>
-      <link>https://dds.cct.lsu.edu/app1102/ddslab/work/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://dds.cct.lsu.edu/app1102/ddslab/work/</guid>
-      <description></description>
     </item>
     
   </channel>

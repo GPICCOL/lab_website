@@ -3,26 +3,39 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://gpiccol.github.io/categories/</loc>
+    <loc>https://dds.cct.lsu.edu/app1102/ddslab/blog/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://gpiccol.github.io/</loc>
+    <loc>https://dds.cct.lsu.edu/app1102/ddslab/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://gpiccol.github.io/people/</loc>
+    <loc>https://dds.cct.lsu.edu/app1102/ddslab/blog/conferences/</loc>
   </url>
   
   <url>
-    <loc>http://gpiccol.github.io/tags/</loc>
+    <loc>https://dds.cct.lsu.edu/app1102/ddslab/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://gpiccol.github.io/work/</loc>
+    <loc>https://dds.cct.lsu.edu/app1102/ddslab/people/</loc>
+  </url>
+  
+  <url>
+    <loc>https://dds.cct.lsu.edu/app1102/ddslab/blog/publications/</loc>
+  </url>
+  
+  <url>
+    <loc>https://dds.cct.lsu.edu/app1102/ddslab/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://dds.cct.lsu.edu/app1102/ddslab/work/</loc>
   </url>
   
 </urlset>
